@@ -5,4 +5,6 @@ tin2win is a program that uses WSL and wslG to make wslG think that the panels i
 basically tricks wslg's WESTON into making the panels windows with no title bar and without the ability to move them
 
 
+also if you're wondering, there is not a point to doing this it's just for fun
+
 nobody talks about tin1win
